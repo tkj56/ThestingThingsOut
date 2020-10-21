@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "include-codeblock"
+  ]
+}
+{
+    "gitbook": "3.x.x",
+    "pluginsConfig": {
+        "include-codeblock": {
+            "template": "ace",
+            "unindent": true,
+            "theme": "monokai"
+        }
+    }
+}
