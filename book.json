@@ -1,1 +1,1 @@
-{ "plugins": ["mathjax"] }
+{ "plugins": ["mathjax", "flexible-alerts"] }
