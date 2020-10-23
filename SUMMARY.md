@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ThestingThingsOut](README.md)
-* [Flexible alert test](flexible-alert-test.md)
-* [formats](formats.md)
+* [docs][ThestingThingsOut](README.md)
+* [docs][Flexible alert test](flexible-alert-test.md)
+* [docs][formats](formats.md)
 
